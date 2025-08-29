@@ -59,9 +59,9 @@ def get_message_interval() -> int:
 #####################################
 
 # Define some lists for generating buzz messages
-ADJECTIVES: list = ["amazing", "funny", "boring", "exciting", "weird"]
-ACTIONS: list = ["found", "saw", "tried", "shared", "loved"]
-TOPICS: list = ["a movie", "a meme", "an app", "a trick", "a story"]
+ADJECTIVES: list = ["extravagant", "hilarious", "dull", "interesting", "unusual"]
+ACTIONS: list = ["discovered", "saw", "attempted", "collaborated", "loved"]
+TOPICS: list = ["a song", "a meme", "a show", "an event", "a poem"]
 
 #####################################
 # Define a function to generate buzz messages
